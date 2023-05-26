@@ -2,6 +2,8 @@
   position: absolute;
   width: 460px;
   height: 460px;
-  left: 148px;
-  top: 2611px;
+  grid-area: image;
+  z-index: -10;
+  /* left: 148px;
+  top: 2611px; */
 }

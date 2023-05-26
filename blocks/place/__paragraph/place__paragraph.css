@@ -1,9 +1,9 @@
 .place__paragraph {
-  position: absolute;
   width: 484px;
   height: 232px;
-  left: 648px;
-  top: 2611px;
+  /* left: 648px;
+  top: 2611px; */
+  grid-area: paragraph1;
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
@@ -14,11 +14,11 @@
 }
 
 .place__paragraph:nth-child(6) {
-  position: absolute;
   width: 484px;
   height: 261px;
-  left: 648px;
-  top: 2835px;
+  /* left: 648px;
+  top: 2835px; */
+  grid-area: paragraph2;
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;

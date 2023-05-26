@@ -1,7 +1,7 @@
 .intro__text {
-  left: 148px;
+  /* left: 148px;
   top: 1425px;
-  position: absolute;
+  position: absolute; */  
   width: 758px;
   height: 170px;
   font-family: "Inter";
@@ -16,8 +16,8 @@
 .intro__text:nth-child(3) {
   width: 720px;
   height: 34px;
-  left: 148px;
-  top: 1553px;
+  /* left: 148px;
+  top: 1553px; */ 
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
@@ -31,8 +31,8 @@
 .intro__text:nth-child(4) {
   width: 720px;
   height: 208px;
-  left: 148px;
-  top: 1603px;
+  /* left: 148px;
+  top: 1603px; */ 
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;

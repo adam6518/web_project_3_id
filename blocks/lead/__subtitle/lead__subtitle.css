@@ -1,18 +1,11 @@
-.header__subtitle {
-  /* position: absolute; */
+.lead__subtitle {
   width: 720px;
   height: 72px;
-  left: 280px;
-  top: 426px;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
   line-height: 36px;
-  /* or 120% */
-
   text-align: center;
-
   color: #ffffff;
 }
