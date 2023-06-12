@@ -1,6 +1,6 @@
 .place__paragraph {
   width: 484px;
-  height: 232px;
+  /* height: 232px; */
   /* left: 648px;
   top: 2611px; */
   grid-area: paragraph1;
@@ -9,13 +9,15 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 163%;
+  align-items: center;
+  justify-items: center;
   /* or 29px */
   color: #ffffff;
 }
 
 .place__paragraph:nth-child(6) {
   width: 484px;
-  height: 261px;
+  /* height: 261px; */
   /* left: 648px;
   top: 2835px; */
   grid-area: paragraph2;
@@ -24,6 +26,23 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 163%;
+
+  /* or 29px */
+  color: #ffffff;
+}
+
+.place__paragraph {
+  width: 484px;
+  /* height: 261px; */
+  /* left: 648px;
+  top: 2835px; */
+  grid-area: paragraph3;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+
   /* or 29px */
   color: #ffffff;
 }

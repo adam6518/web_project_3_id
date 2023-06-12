@@ -1,14 +1,16 @@
 .place {
-    position: relative;
+    /* position: absolute; */
     display: grid;
     align-items: center;
     justify-content: center;
     grid-template-areas: 
-        'title title title website website website'
-        'image image image paragraph1 paragraph1 paragraph1'
-        '. . . paragraph2 paragraph2 paragraph2'
-        'button button . . . .'
+        'title website'
+        'image paragraph1'
+        'image paragraph2'
+        'image paragraph3'
+        'button .'
         ;
+    grid-template-rows: 1fr 1fr 1fr;
     padding: 2em;
-    gap: 50px;    
+    gap: 20px;    
 }
