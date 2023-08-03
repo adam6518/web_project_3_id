@@ -1,0 +1,14 @@
+.place__artist {
+  position: absolute;
+  width: 456px;
+  /* height: 44px; */
+  /* left: 648px;
+  top: 2541px; */
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* or 122% */
+  color: #ffffff;
+}
